@@ -15,7 +15,7 @@ public class UserInfo {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
 	
-//	
+//	commentaire
 	
 	
 	private String email;
