@@ -1,23 +1,16 @@
 # Livre-Troc
 
-Application d'échange de livres d'occasion réalisée en utilisant Java Spring Boot REST API, Spring Security, React JS et Bootstrap :
+An application for exchanging used books developed using Java Spring Boot REST API, Spring Security, React JS, and Bootstrap:
 
+The application allows users to register, log in, and create profiles. Users can add books they want to exchange and browse through books offered by other users.
 
-L'application permet aux utilisateurs de s'inscrire, de se connecter et de créer des profils. 
-Les utilisateurs peuvent ajouter des livres qu'ils souhaitent échanger et parcourir les livres proposés par d'autres utilisateurs.
+The application uses Java Spring Boot REST API to communicate with the database and provide a secure API to clients. Spring Security is used to protect application resources and authenticate users.
 
-L'application utilise Java Spring Boot REST API pour communiquer avec la base de données et pour fournir une API sécurisée aux clients. 
-Spring Security est utilisé pour protéger les ressources de l'application et pour authentifier les utilisateurs.
+The front-end of the application is built using React JS and Bootstrap. Users can search for books using filters such as title, author, and category.
 
-Le front-end de l'application est construit en utilisant React JS et Bootstrap. 
-Les utilisateurs peuvent rechercher des livres en utilisant des filtres tels que le titre, l'auteur et la catégorie.
+In summary, this application enables users to securely and efficiently exchange used books through a user-friendly interface and reliable API.
 
-
-En somme, cette application permet aux utilisateurs d'échanger des livres d'occasion de manière sécurisée et efficace grâce à une interface conviviale et une API fiable.
-
-
-L'application est en cours de déploiement sur Internet, mais vous trouverez ci-joint des captures de différents scénarios de l'application.
-Inscription, connexion, emprunt, fermeture d'un emprunt, ajout d'un livre ....
+The application is currently being deployed on the internet, but attached are screenshots of various scenarios in the application, including registration, login, borrowing, closing a borrowing, and adding a book...
 
 
 ![image](https://user-images.githubusercontent.com/104898751/231434434-c762b297-b536-4005-8dc1-0ce8bf78bd35.png)
